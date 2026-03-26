@@ -1,0 +1,8 @@
+CREATE TABLE Students(
+StudentID INT PRIMARY KEY, 
+FirstName VARCHAR(50) NOT NULL,
+LastName VARCHAR(50),
+EnrollmentDate DATE DEFAULT GETDATE(),
+GPA DECIMAL(3,2)
+
+);
