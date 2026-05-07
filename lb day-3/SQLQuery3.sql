@@ -1,0 +1,1 @@
+INSERT INTO Departments (DeptID, DeptName) VALUES(5, 'CS');

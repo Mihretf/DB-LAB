@@ -1,0 +1,1 @@
+INSERT INTO Students(StudentID, FullName) VALUES (106, NULL);

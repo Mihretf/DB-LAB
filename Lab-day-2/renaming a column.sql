@@ -1,0 +1,1 @@
+EXEC sp_rename 'Students.FirstName', 'EditedFirstName', 'COLUMN';

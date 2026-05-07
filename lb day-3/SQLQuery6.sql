@@ -1,0 +1,1 @@
+INSERT INTO Students (StudentID, FullName, Email, Age) VALUES (5, 'Young Prodigy', 'prodigy@gmail.com', 19 );
